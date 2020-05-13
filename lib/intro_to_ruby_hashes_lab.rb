@@ -6,7 +6,6 @@ def my_hash
   hash1 = {
     one: "two"
   }
-  hash1
 end
 
 def pioneer
